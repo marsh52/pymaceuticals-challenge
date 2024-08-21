@@ -1,9 +1,7 @@
-# pymaceuticals-challenge
-Module 5 challenge files
 # **pymaceuticals-challenge** 
 ## **Module 5 Challenge Files**
 ### Pymaceuticals Analysis
-_/pymaceuticals-challenge/Pymaceuticals/pymaceuticals-analysis.ipynb
+_/pymaceuticals-challenge/Pymaceuticals/pymaceuticals-analysis.ipynb_
 + The purpose of this document is to provide Pymaceuticals Inc. an analysis regarding the effectiveness of various cancer treatments on mice.
 + This analysis includes general summary statistics, bar charts and pie charts, and statistics data related to the final tumor volumes for the most effective treatments.
 
