@@ -10,5 +10,5 @@ _/pymaceuticals-challenge/data/Mouse_metadata.csv_
 + This file contains data related to the mice that were studied. There is identifying information such as mouse ID, age and weight present in this document.
 
 ### Study Results
-_/pymaceuticals-challenge/data/Study_results.csv
+_/pymaceuticals-challenge/data/Study_results.csv_
 + This file contains data related to treatment data. The related field between this and Mouse_metadata is Mouse ID. There is identifying information such as mouse ID, tumor volume and metastatic sites in this document.
